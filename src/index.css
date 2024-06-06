@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.border-r {
+  border-right-width: 2px; /* Puoi regolare lo spessore come preferisci */
+  
+}
+.border-t {
+  border-top-width: 2px;
+}
+.border-b {
+  border-bottom-width: 2px;
+}
+.border-l {
+  border-left-width: 2px;
+}
+.shadow-button {
+  box-shadow: -2px 2px 0px 0px #000000;
+}
